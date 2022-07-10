@@ -1,0 +1,7 @@
+[
+    {"PType" : "p", "Evaluator" : "r.sub.Label == 'corrections'", "Object" : "/corrections", "Action" : "write" },
+    {"PType" : "p", "Evaluator" : "r.sub.Label == 'corrections'", "Object" : "/corrections", "Action" : "read" },
+    {"PType" : "p", "Evaluator" : "r.sub.Label == 'admin'", "Object" : "/corrections", "Action" : "write" },
+    {"PType" : "p", "Evaluator" : "r.sub.Label == 'admin'", "Object" : "/corrections", "Action" : "read" },
+    {"PType" : "p", "Evaluator" : "r.sub.Label == 'MedElig'", "Object" : "/corrections", "Action" : "read" }
+]
